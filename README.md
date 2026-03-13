@@ -138,4 +138,3 @@ Strong understanding of:
 </a>
 
 </p>
-![Snake animation](https://github.com/debasishghosh-lab/debasishghosh-lab/blob/output/github-contribution-grid-snake-dark.svg)
